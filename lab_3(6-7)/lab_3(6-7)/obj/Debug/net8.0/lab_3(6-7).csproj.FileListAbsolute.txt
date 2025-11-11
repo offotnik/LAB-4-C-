@@ -1,0 +1,14 @@
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\bin\Debug\net8.0\lab_3(6-7).exe
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\bin\Debug\net8.0\lab_3(6-7).deps.json
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\bin\Debug\net8.0\lab_3(6-7).runtimeconfig.json
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\bin\Debug\net8.0\lab_3(6-7).dll
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\bin\Debug\net8.0\lab_3(6-7).pdb
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).AssemblyInfoInputs.cache
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).AssemblyInfo.cs
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).csproj.CoreCompileInputs.cache
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).dll
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\refint\lab_3(6-7).dll
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).pdb
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\lab_3(6-7).genruntimeconfig.cache
+C:\Users\RobotComp\source\repos\lab_3(6-7)\lab_3(6-7)\obj\Debug\net8.0\ref\lab_3(6-7).dll
