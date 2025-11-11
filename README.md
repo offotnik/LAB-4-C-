@@ -1,2 +1,51 @@
 # LAB-4-C-
 Пирожков Артем ИТ-1 лаба C# №4 Вариант 6
+
+## Задача 1
+
+Составить программу, которая проверяет, есть ли в списке L хотя бы два одинаковых элемента.
+
+### Тест задачи 
+
+<img width="326" height="313" alt="image" src="https://github.com/user-attachments/assets/f422def4-a5a1-472f-8aba-855b5dd0e669" />
+
+## Задача 2 
+
+Удалить из списка L первое вхождение заданного элемента, если такой есть
+
+### Тест задачи
+
+<img width="410" height="313" alt="image" src="https://github.com/user-attachments/assets/7fbed149-6ecf-4fd4-833a-69b6faee9e95" />
+
+## Задача 3
+
+Есть перечень музыкальных произведений. Определить для каждого произведения, какие из них 
+нравятся всем n меломанам, какие — некоторым из меломанов, и какие — никому из меломанов.
+
+### Тест задачи
+
+<img width="319" height="494" alt="image" src="https://github.com/user-attachments/assets/2fe2de72-7eef-4dd7-b695-7fca0af79a32" />
+
+## Задача 4
+
+Файл содержит текст на русском языке. Напечатать в алфавитном порядке все гласные буквы, 
+которые не входят более чем в одно слово.
+
+### Тест задачи
+
+<img width="444" height="338" alt="image" src="https://github.com/user-attachments/assets/cf9e808e-7b7d-4d67-b90c-969ec668a6ee" />
+
+
+## Задача 6 + 7 
+
+В данных задачах нам надо создать класс который будет принимать 3 коэффициента и выводить результат решения квадратного уравнения с этими кэфами.
+
+В 6 нам надо создать изначалальный класс, а в 7 перегрузить операторы чтобы они действовали как в условии
+
+<img width="760" height="96" alt="image" src="https://github.com/user-attachments/assets/10600573-b5b1-4db8-8651-50d6fc828760" />
+
+<img width="771" height="227" alt="image" src="https://github.com/user-attachments/assets/8900b4e1-428c-4037-b5bc-cf4f523793a0" />
+
+### Тест задач 
+
+<img width="309" height="395" alt="image" src="https://github.com/user-attachments/assets/8105549d-828d-4da6-ae79-372837a5d71e" />
